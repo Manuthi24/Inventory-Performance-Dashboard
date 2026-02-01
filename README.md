@@ -1,3 +1,15 @@
+# 📦 Inventory Performance Dashboard
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20%26%20Visualization-orange)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-brightgreen)
+![Inventory Analytics](https://img.shields.io/badge/Inventory‑Analytics-red)
+![Business Intelligence](https://img.shields.io/badge/Business‑Intelligence-blueviolet)
+![KPI Reporting](https://img.shields.io/badge/KPIs-Performance%20Metrics-blue)
+![Excel/CSV](https://img.shields.io/badge/Excel%2FCSV-Data%20Source-lightgrey)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
+![Portfolio Project](https://img.shields.io/badge/Type-Portfolio%20Project-important)
+
+
 ![Inventory Performance Dashboard](Inventory%20Performance%20Dashboard.png)
 
 # 📦 Inventory Performance Dashboard
